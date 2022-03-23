@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "effortless-gate-330118",
+  "private_key_id": "cbcdd3eedd467da38f7057a3b9f36e9c8c147090",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7U3IOKaPLb8sj\nDnQsJLa1mD8CbdrK4TtUZZrNs8UyXd4W4d/caT78pF6Dw81cdGhrXzPaQSP+p9ng\nEsDMJn5zWLBaVMANVIeyk5JXx+AmAIn9GgK6uNtSEyD52axP5pFWe3vL3Bbc92bJ\nq67lSkg2HQcYRAnXaelrkSz4HpxV9jWsnuvWXg08pr/GVgQB6Ht5HSfzeSFqpcnK\nKzfgyVY8XVTaUMVAStRDg800mybrvQ4obElate9x3L2L16k46Lm0pPFK6yNapTm6\nlpN+Q3mZhlOwuqktzkQLDMLMyBNUZcsqmUUpwqUhR8oaDracv8xEVCC4hckNZlsE\nJkhghnvlAgMBAAECggEADYo1h0KJPU4iT7FewkYREsUjYMiR9PIcuLfzXYTt7vsL\n73l6FdNhox86WanQcStU1NX3yIHG2URGokSYvOjXYPz7Gjxf+VavzD+QZ1niIL0P\nPEUiB18PMzqAuq56HvhabvbT9uM8n9IeEtue86HP4GFuvtlEINbd8VF3/6Mux6O5\nQHIlxBQBiTiYItGRh86l+QVmvSE8hB0/aSK5gkpAcopZ+oPcFveZDRz3WgWpn3kP\nFbgw2HvijqlPARidLd9Q54qIW49MKJu9N+/7rcEKG7VaHzSowkpLpOs0c9jxRuAY\n8rArtNzuogmggG0aChAuka5JBFy3HW+Ax+OEeIenwQKBgQD60uWk1TlTiVz1gvfm\nMvuAm5HsK+/eKOCicccKp/YkxAo9dx25pfmm9J1gMBS3uUjrIKbh3+aoXNQJGiuS\nPk+XXQ/t3Lx7ucbh42SCD3Suwi1aoCnH8OjDtlOIMiNHsdkrdm7lMWkLc5imYeYO\n0Rh2his6rp4h3agiBj6DWeiasQKBgQC/MRbQUItfi4F9HzqlRd0oR3J+taY/q9CH\nQBCXhecYWfamf+efhuDt7oqHOp79KOfCCSlMbAQ8uwGW3F9/F8EjRMBqRMALc0MW\nhUGLh4U/bMAmRKzEi0FgmKnOhBYrkgvLtMDqlnG7Bj74zn/2lK4qB5yQ8MoeuH3Y\nnNQh+gSZdQKBgQC1m9YizzA+yArCyR1tVCS+LeYuNnHrTXW4qOERWiPi4v73GjQv\no3lr5Vm9t5KIpGOju3SZv2BnLy9nl8dMkElYs01BUL44Z38VN2wir8YwcvAb2jPm\nTQx8CJva1VKuKpuv2ITa9je0zvIMJn5I5CTuTJ8oUh61LqT6XcMNoB/HQQKBgQCq\n79a31OtnNzFEjwE99uKuOoLRatMCpjjAU7UB5AQjr3tojX6nEE5WLCnKkczIByR+\nRPaZjxGSwpe/K7Rtyu0w/S0TVfhlxF286tMZTscBV9fL3yagaui+1n8rVskDl4XY\nUPkSRAPW9NSkWuvpqDC2/ysqIz5yjPxnCIBZCFHIaQKBgCiuNJiGrMfWbUu3WXZ0\nvsT7EgX0aIqe9FyeppmOc8Dn2TT82v41szIovW8LBSxLWtwB9RlAnNH6Fu2jCLCT\nk+zdV6J8Ro8H2WBmSSotidiqSAfgeOT9ChWSWqYZ3T0hL3Yj45plNyIhMAnTUCXG\nqjsmKhZ4BwqqO4eCqT1cEHd/\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-r-ivnedc3zjj7kwc6-4olwdc2r@effortless-gate-330118.iam.gserviceaccount.com",
+  "client_id": "111234309972319720003",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-r-ivnedc3zjj7kwc6-4olwdc2r%40effortless-gate-330118.iam.gserviceaccount.com"
+}
